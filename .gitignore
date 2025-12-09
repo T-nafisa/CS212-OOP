@@ -9,5 +9,8 @@ bin/
 *.class
 
 # OS files
+.m2/
 .DS_Store
 Thumbs.db
+doc/
+*.zip
