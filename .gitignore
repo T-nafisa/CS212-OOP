@@ -1,0 +1,13 @@
+# Eclipse junk
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java build
+bin/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
