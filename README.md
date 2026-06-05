@@ -1,0 +1,1 @@
+Worked on some object-oriented programming projects, mini games projects etc. focusing on Java algorithms, logic, GUI, and Java Swing during my Java-OOp course taking in Queens College under Dr. Lord.
